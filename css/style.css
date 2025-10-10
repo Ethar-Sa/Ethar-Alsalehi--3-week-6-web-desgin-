@@ -1,0 +1,20 @@
+#hero {
+    background-image: url(../images/this\ isss\ the\ picture.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    filter: brightness(80%);
+}
+
+#hero .d-flex {
+    height: 90vh;
+}
+
+#hero h1 {
+    font-size: 6rem;
+}
+
+#hero p {
+    font-size: 2rem;
+}
